@@ -1,7 +1,7 @@
 /* night.css — redefine variables para modo noche */
 :root{
   --color-fondo: #0f0f12;
-  --color-texto: #3a4db9;
+  --color-texto: #FFFFFF;
   --color-enlace: #8ab4ff;
   --color-acento: #7fb4ff;
   --color-borde: #2a3340;
